@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the website of student chapter of TCET, ACM <b>(version 1)</b>.
+This is the website of student chapter of TCET, ACM <b>(version 1)</b>. <br>
 Since, this is a live project, and we only know a little about security, we are not making the source code public for any possible misuse.
 
 ## My Role
