@@ -1,4 +1,4 @@
-# Website | ACM TCET 
+# Website - ACM TCET 
 
 ## Introduction
 
