@@ -3,14 +3,13 @@
 ## Introduction
 
 This is the website of student chapter of TCET, ACM <b>(version 1)</b>. <br>
-Since, this is a live project, and we only know a little about security, we are not making the source code public for any possible misuse. <br>
 This is the static version of the website (with everything pre-loaded).
 
 ## My Role
 <b>Major:</b> Frontend (UI) <br>
 <b>Minor:</b> Backend
 
-I also managed the hosting platform for the website.
+I also managed the hosting platform for the website. ACM official website space via Cpanel
 
 ## Website Demo
 
